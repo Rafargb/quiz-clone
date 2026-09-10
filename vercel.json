@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/cdn/(.*)", "destination": "https://cdn.fnlfx.com/$1" },
+    { "source": "/assets/(.*)", "destination": "https://assets.fnlfx.com/$1" }
+  ]
+}
