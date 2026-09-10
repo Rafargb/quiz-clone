@@ -1,1 +1,23 @@
-{"version":2,"vendor":{"solidgate":{"enabled":true}}}
+{
+  "version": 2,
+  "vendor": {
+    "metaPixel": {
+      "id": "",
+      "firstPurchaseOnly": true,
+      "includeValue": true,
+      "disableDefaultEvents": true,
+      "events": {}
+    },
+    "amplitude": {
+      "apiKey": "",
+      "serverZone": "US",
+      "sessionReplayEnabled": false,
+      "sessionReplaySampleRate": 0,
+      "crossDomainDeviceId": false,
+      "disableDefaultEvents": true
+    },
+    "solidgate": {
+      "enabled": true
+    }
+  }
+}
